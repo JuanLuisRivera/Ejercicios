@@ -1,2 +1,2 @@
 # Ejercicios
-Conjunto de ejercicios tomados de diferentes paginas web para poder mantener un buen conocimiento continuo respecto a los diferentes lenguajes de programacion.
+Conjunto de ejercicios tomados de diferentes paginas web para poder mantener una practica continua en los diferentes lenguajes de programacion que conozco.
